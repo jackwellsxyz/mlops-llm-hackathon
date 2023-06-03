@@ -1,0 +1,12 @@
+relevanceai
+pandas
+redis
+tqdm
+vecdb
+
+python-dotenv
+
+jupyterlab
+jupyter
+pandas
+numpy
